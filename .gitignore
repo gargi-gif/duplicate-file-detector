@@ -1,0 +1,7 @@
+
+# Project-specific
+build/
+.vscode/
+.idea/
+test_data/
+_duplicates_trash/
